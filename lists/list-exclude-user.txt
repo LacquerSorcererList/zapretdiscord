@@ -1,0 +1,2 @@
+domain.example.abc
+# LacquerSorcererList/zapretdiscord 8b4cb6498dde
